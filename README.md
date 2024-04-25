@@ -1,6 +1,6 @@
 # Augmented Reality and Virtual Reality (AR/VR)
 
-A playground for practicing AR/VR
+A playground for practicing AR/VR. It was used during my Computer Science bachelor's degree graduation.
 
 ## Marker
 
